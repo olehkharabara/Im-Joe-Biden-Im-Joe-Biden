@@ -1,5 +1,5 @@
 n = input()
-k = int(input())
+k = int(input())##pavlo pidor
 
 
 def find_lucky_number(n: str, k: int):
@@ -33,3 +33,5 @@ lst1, m, result = find_lucky_number(n, k)
 print(result)
 print(m)
 print(lst1)
+
+
